@@ -1,0 +1,6 @@
+.
+├── .git
+├── .gitignore
+└── tree.txt
+
+2 directories, 2 files
