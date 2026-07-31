@@ -1,6 +1,7 @@
 .
 ├── .git
 ├── .gitignore
+├── LICENSE
 └── tree.txt
 
-2 directories, 2 files
+2 directories, 3 files
