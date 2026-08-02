@@ -1,6 +1,17 @@
-# DS_Store
+# Raw data
+data/raw/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
 .DS_Store
+Thumbs.db
 
 # Local development folders
 .development/
 .archive/
+logs/**
