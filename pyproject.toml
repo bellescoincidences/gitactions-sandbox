@@ -1,0 +1,10 @@
+[project]
+name = "gitactions-sandbox"
+version = "0.1.0"
+description = "Experimenting with GitHub Actions"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.5.1",
+    "pandas>=3.0.5",
+]
